@@ -1,9 +1,5 @@
-
-
-  
-
 ### <div align="center">I'm Dylan, a passionate Data Analyst, AI Engineer and Economics Researcher🚀</div>  
-  
+<br/>    
 
 - 🔭 Pursuing my dual degree in Data Analytics and Economics expected 2027 (GPA: 3.75)  
   
