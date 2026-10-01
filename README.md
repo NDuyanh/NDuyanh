@@ -1,5 +1,4 @@
-# <div align="center">I'm Dylan, a passionate Data Analyst, AI Engineer and Economics Researcher🚀</div>  
-<br/>    
+# <div align="center">I'm Dylan, a passionate Data Analyst, AI Engineer and Economics Researcher🚀</div>     
 
 ## About Me
 - 🔭 Pursuing my dual degree in Data Analytics and Economics expected 2027 (GPA: 3.75)  
@@ -60,6 +59,25 @@
 </div>
 
 </td></tr></table>  
+
+<br/> 
+## My experience
+
+### The Law office of Bryan B.Davenport
+#### AI and Data Engineer
+- Joined a team of 6 to build AI agentic product for claim classification
+
+### Lisska Research Fellows
+- Developed individual researches using Economics/Statistics methods
+
+### Columbus Zoo and Aquarium
+#### Dashboard Integration Intern
+- Built a live data-to-dashboard pipeline for the zoo to manage pinnipeds well-being
+
+<br/>  
+## Awards
+
+
 
 <br/>  
 
