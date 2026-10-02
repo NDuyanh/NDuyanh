@@ -64,15 +64,16 @@
 
 ## My experience
 
-### The Law office of Bryan B.Davenport
-#### AI and Data Engineer
+### AI and Data Engineer at The Law office of Bryan B.Davenport
+
 - Joined a team of 6 to build AI agentic product for claim classification
 
 ### Lisska Research Fellows
+
 - Developed individual researches using Economics/Statistics methods
 
-### Columbus Zoo and Aquarium
-#### Dashboard Integration Intern
+### Dashboard Integration Intern at The Columbus Zoo and Aquarium
+
 - Built a live data-to-dashboard pipeline for the zoo to manage pinnipeds well-being
 
 <br/>  
