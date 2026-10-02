@@ -76,11 +76,6 @@
 
 - Built a live data-to-dashboard pipeline for the zoo to manage pinnipeds well-being
 
-<br/>  
-
-## Awards
-
-
 
 <br/>  
 
