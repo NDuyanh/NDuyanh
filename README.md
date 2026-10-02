@@ -61,6 +61,7 @@
 </td></tr></table>  
 
 <br/> 
+
 ## My experience
 
 ### The Law office of Bryan B.Davenport
@@ -75,6 +76,7 @@
 - Built a live data-to-dashboard pipeline for the zoo to manage pinnipeds well-being
 
 <br/>  
+
 ## Awards
 
 
