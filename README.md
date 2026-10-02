@@ -1,4 +1,4 @@
-# <div align="center">I'm Dylan, a Data Analyst, AI Engineer and Academic Researcher🚀</div>     
+# <div align="center">Hi! I'm Dylan, a passionate Data Analyst, AI Engineer and Economics Researcher🚀</div>     
 
 ## About Me
 - 🔭 Pursuing my dual degree in Data Analytics and Economics expected 2027 (GPA: 3.75)  
